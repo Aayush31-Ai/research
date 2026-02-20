@@ -1,0 +1,6 @@
+# This is a Node.js project. There are no Python dependencies.
+# To install all dependencies, run:
+#
+#   npm install
+#
+# All packages are listed in package.json.
